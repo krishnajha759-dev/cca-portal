@@ -9,15 +9,18 @@ Full Stack CCA Licensing Portal built using React.js, Express.js and PostgreSQL.
 - Intent Registration
 - Secure APIs
 - Responsive UI
+- Modern Responsive Design
 
 ## Tech Stack
 
 ### Frontend
+
 - React.js
 - Vite
 - CSS
 
 ### Backend
+
 - Node.js
 - Express.js
 - PostgreSQL
